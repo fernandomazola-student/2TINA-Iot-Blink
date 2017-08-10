@@ -1,6 +1,7 @@
 //const int LED = 8;
 const int LEDD = 9;
 
+
 void setup() {
 //Vamos setar o tipo de porta, se ele vai entrar ou vai sair dados. 
 //Para fazer o led piscar, precisamos fazer a saida
